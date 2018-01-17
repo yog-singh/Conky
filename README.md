@@ -1,2 +1,2 @@
 # Conky
-The conky settings I use
+Conky configuration used by me.
